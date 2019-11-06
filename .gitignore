@@ -1,0 +1,11 @@
+/**/target/
+/bin/
+.project
+.classpath
+.settings/
+.idea/
+build/
+BASE_PATH_ERROR_IS_UNDEFINED/
+*.iml
+
+
